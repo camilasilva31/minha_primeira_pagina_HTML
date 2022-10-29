@@ -1,2 +1,1 @@
-
-#Projeto com o objetivo de elaborar um website, utilizando uma estrutura bem básica, utilizando tags.
+# Projeto com o objetivo de elaborar um website, utilizando uma estrutura bem básica, utilizando tags.
